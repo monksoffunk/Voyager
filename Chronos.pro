@@ -1,4 +1,4 @@
-update=10/15/2017 11:16:38 PM
+update=10/15/2017 11:32:02 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -56,5 +58,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids
+LibName31=Molex-0548190589.pretty/Schematic Library/Molex-0548190589
+LibName32=WS2812B.pretty/Schematic-Symbol/ws2812b
