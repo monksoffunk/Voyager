@@ -45,6 +45,6 @@ For the RGB underglow:
  * WS2812B-based RGB strips for mounted install
  * Regular thin wire to connect the strips to PCB
    
-# The parts list:
+# 	The parts list
 
  * Todo
