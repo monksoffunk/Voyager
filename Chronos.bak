@@ -31,6 +31,7 @@ LIBS:valves
 LIBS:MX_Alps_Hybrids
 LIBS:Molex-0548190589
 LIBS:ws2812b
+LIBS:Chronos-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
