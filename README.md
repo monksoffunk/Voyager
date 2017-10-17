@@ -17,7 +17,7 @@ Some keys for the other layouts may be flipped around.
  * Recommended layout firmware available for a quick "build and use" solution
  * Follows good practices for circuitry design for a stable, reliable result
 
-Keyboard Layout Editor layout: https://tinyurl.com/ai03-chronos-2
+Keyboard Layout Editor layout: https://tinyurl.com/ai03-chronos-3
 
 # Things required for building your own
 
