@@ -798,4 +798,8 @@ U 59E84325
 F0 "Matrix" 60
 F1 "Matrix.sch" 60
 $EndSheet
+Text Notes 7350 7500 0    60   ~ 0
+Chronos Keyboard\n
+Text Notes 8125 7650 0    60   ~ 0
+2017-10-15\n
 $EndSCHEMATC

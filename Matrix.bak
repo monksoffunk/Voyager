@@ -33,9 +33,9 @@ LIBS:Molex-0548190589
 LIBS:ws2812b
 EELAYER 25 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr A3 16535 11693
 encoding utf-8
-Sheet 1 1
+Sheet 2 2
 Title ""
 Date ""
 Rev ""
@@ -45,4 +45,8 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Notes 12175 10925 0    60   ~ 0
+Matrix
+Text Notes 12950 11075 0    60   ~ 0
+2017-10-16
 $EndSCHEMATC

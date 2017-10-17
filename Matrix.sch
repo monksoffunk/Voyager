@@ -45,4 +45,41 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Notes 12175 10925 0    60   ~ 0
+Matrix
+Text Notes 12950 11075 0    60   ~ 0
+2017-10-16
+$Comp
+L MX-1U K_ESC1
+U 1 1 59E86381
+P 700 725
+F 0 "K_ESC1" H 700 850 60  0000 C CNN
+F 1 "MX-1U" H 700 775 20  0000 C CNN
+F 2 "" H 675 700 60  0001 C CNN
+F 3 "" H 675 700 60  0001 C CNN
+	1    700  725 
+	1    0    0    -1  
+$EndComp
+$Comp
+L D_Small D?
+U 1 1 59E86545
+P 1125 775
+F 0 "D?" H 1075 855 50  0000 L CNN
+F 1 "D_Small" H 975 695 50  0000 L CNN
+F 2 "" V 1125 775 50  0001 C CNN
+F 3 "" V 1125 775 50  0001 C CNN
+	1    1125 775 
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_Small R?
+U 1 1 59E8656A
+P 1150 1025
+F 0 "R?" H 1180 1045 50  0000 L CNN
+F 1 "R_Small" H 1180 985 50  0000 L CNN
+F 2 "" H 1150 1025 50  0001 C CNN
+F 3 "" H 1150 1025 50  0001 C CNN
+	1    1150 1025
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
