@@ -45,9 +45,9 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 12175 10925 0    60   ~ 0
+Text Notes 7325 7500 0    60   ~ 0
 Matrix
-Text Notes 12950 11075 0    60   ~ 0
+Text Notes 8100 7650 0    60   ~ 0
 2017-10-16
 $Comp
 L MX-1U K_ESC1
