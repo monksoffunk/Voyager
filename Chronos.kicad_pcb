@@ -622,7 +622,7 @@
   )
 
   (module local_lib:60_Outline locked (layer F.Cu) (tedit 5961E28C) (tstamp 59E6CE6D)
-    (at 177.725 81.3125)
+    (at 209.5625 -59.23125)
     (fp_text reference REF** (at -139 50.5) (layer Edge.Cuts) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -4310,7 +4310,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 59E6F35F)
-    (at 0 0)
+    (at 73.81875 45.24375)
     (path /59E84325/59E8D178)
     (fp_text reference K_#1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4348,7 +4348,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 59E6F378)
-    (at 0 0)
+    (at 92.86875 45.24375)
     (path /59E84325/59E8D902)
     (fp_text reference K_#2 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4386,7 +4386,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 59E6F391)
-    (at 0 0)
+    (at 111.91875 45.24375)
     (path /59E84325/59E8D916)
     (fp_text reference K_#3 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5572,7 +5572,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 59E6F6A0)
-    (at 0 0)
+    (at 54.76875 45.24375)
     (path /59E84325/59E86381)
     (fp_text reference K_ESC1 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
