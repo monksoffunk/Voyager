@@ -1,4 +1,4 @@
-update=10/15/2017 11:32:02 PM
+update=10/17/2017 7:49:37 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,5 @@ LibName29=valves
 LibName30=MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids
 LibName31=Molex-0548190589.pretty/Schematic Library/Molex-0548190589
 LibName32=WS2812B.pretty/Schematic-Symbol/ws2812b
+LibName33=kicad_lib_tmk/keyboard_parts
+LibName34=kicad_lib_tmk/mkl27z256vfm4
