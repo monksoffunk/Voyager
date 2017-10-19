@@ -598,7 +598,7 @@
   )
 
   (module local_lib:60_Outline locked (layer F.Cu) (tedit 5961E28C) (tstamp 59E6CE6D)
-    (at 209.5625 -59.23125)
+    (at 190.5125 95.55)
     (fp_text reference REF** (at -139 50.5) (layer Edge.Cuts) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
