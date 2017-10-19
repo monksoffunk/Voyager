@@ -31,6 +31,8 @@ LIBS:valves
 LIBS:MX_Alps_Hybrids
 LIBS:Molex-0548190589
 LIBS:ws2812b
+LIBS:keyboard_parts
+LIBS:mkl27z256vfm4
 LIBS:Chronos-cache
 EELAYER 25 0
 EELAYER END

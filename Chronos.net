@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/Ryota/Documents/GitHub/Chronos/Chronos.sch)
-    (date "10/19/2017 11:25:26 AM")
+    (date "10/19/2017 12:30:57 PM")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1487,7 +1487,7 @@
       (tstamp 59E9ACC8))
     (comp (ref K_ISOENTER1)
       (value MX-ISO)
-      (footprint MX_Alps_Hybrid:MX-ISO-Combined)
+      (footprint MX_Alps_Hybrid:MX-ISO-Combined-ReversedStabilizers)
       (libsource (lib MX_Alps_Hybrids) (part MX-ISO))
       (sheetpath (names /Matrix/) (tstamps /59E84325/))
       (tstamp 59EB378F))
@@ -1793,6 +1793,10 @@
         (pin (num 3) (name GND) (type power_in))
         (pin (num 4) (name DIN) (type input)))))
   (libraries
+    (library (logical device)
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
+    (library (logical transistors)
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\transistors.lib"))
     (library (logical atmel)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\atmel.lib"))
     (library (logical MX_Alps_Hybrids)
@@ -1802,11 +1806,7 @@
     (library (logical ws2812b)
       (uri C:\Users\Ryota\Documents\GitHub\Chronos\WS2812B.pretty\Schematic-Symbol\ws2812b.lib))
     (library (logical keyboard_parts)
-      (uri C:\Users\Ryota\Documents\GitHub\Chronos\kicad_lib_tmk\keyboard_parts.lib))
-    (library (logical device)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
-    (library (logical transistors)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\transistors.lib")))
+      (uri C:\Users\Ryota\Documents\GitHub\Chronos\kicad_lib_tmk\keyboard_parts.lib)))
   (nets
     (net (code 1) (name RGBLED)
       (node (ref RGB1) (pin 4)))
