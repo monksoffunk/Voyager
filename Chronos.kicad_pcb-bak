@@ -8712,7 +8712,7 @@
   )
 
   (module Diodes_SMD:D_SMA (layer B.Cu) (tedit 586432E5) (tstamp 59E912E0)
-    (at 122.634375 129.778125 270)
+    (at 276.225 129.778125 270)
     (descr "Diode SMA (DO-214AC)")
     (tags "Diode SMA (DO-214AC)")
     (path /59E84325/59E9ABD2)
