@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/Ryota/Documents/GitHub/Chronos/Chronos.sch)
-    (date "10/19/2017 1:07:04 PM")
+    (date "10/19/2017 3:30:25 PM")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -35,7 +35,7 @@
       (tstamp 59E55952))
     (comp (ref Y1)
       (value 16MHz)
-      (footprint Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm_HandSoldering)
+      (footprint Crystals:Crystal_SMD_EuroQuartz_X22-4pin_2.5x2.0mm_HandSoldering)
       (libsource (lib device) (part Crystal_GND24_Small))
       (sheetpath (names /) (tstamps /))
       (tstamp 59E55B9D))
