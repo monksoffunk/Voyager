@@ -2907,7 +2907,7 @@ Connection ~ 8875 5350
 Wire Wire Line
 	9325 6250 9300 6250
 Wire Wire Line
-	9325 2350 9325 6250
+	9325 2350 9325 7150
 Wire Wire Line
 	9325 5350 9300 5350
 Wire Wire Line
@@ -2992,7 +2992,7 @@ Wire Wire Line
 Wire Wire Line
 	9300 2150 9350 2150
 Wire Wire Line
-	9350 2150 9350 6200
+	9350 2150 9350 7075
 Connection ~ 9350 2600
 Connection ~ 9350 3500
 Connection ~ 9350 4400
@@ -3441,4 +3441,26 @@ Wire Wire Line
 Wire Wire Line
 	8425 7150 8400 7150
 Connection ~ 8425 6250
+Wire Wire Line
+	9150 7300 9350 7300
+Wire Wire Line
+	9350 7300 9350 7125
+Wire Wire Line
+	9350 7125 9375 7125
+Wire Wire Line
+	9375 7125 9375 7075
+Wire Wire Line
+	9375 7075 9350 7075
+Connection ~ 9350 6200
+Wire Wire Line
+	9325 7150 9300 7150
+Connection ~ 9325 6250
+Wire Wire Line
+	9350 7100 9125 7100
+Wire Wire Line
+	9125 7100 9125 6400
+Wire Wire Line
+	9125 6400 9150 6400
+Wire Wire Line
+	9200 6350 9200 7250
 $EndSCHEMATC
