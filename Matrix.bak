@@ -2367,17 +2367,6 @@ Text GLabel 8400 2150 0    60   Input ~ 0
 COL6
 Text GLabel 9300 2150 0    60   Input ~ 0
 COL7
-$Comp
-L GND #PWR026
-U 1 1 59FE2F9C
-P 2625 2900
-F 0 "#PWR026" H 2625 2650 50  0001 C CNN
-F 1 "GND" H 2625 2750 50  0000 C CNN
-F 2 "" H 2625 2900 50  0001 C CNN
-F 3 "" H 2625 2900 50  0001 C CNN
-	1    2625 2900
-	-1   0    0    1   
-$EndComp
 Text GLabel 2525 3275 0    60   Input ~ 0
 ROW0
 Text GLabel 2525 3375 0    60   Input ~ 0
