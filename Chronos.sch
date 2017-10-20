@@ -1131,4 +1131,8 @@ Wire Wire Line
 	1175 1975 1275 1975
 Text GLabel 4250 4000 2    60   Input ~ 0
 RGBLED
+Text Label 1825 3400 0    60   ~ 0
+D_P
+Text Label 1825 3500 0    60   ~ 0
+D_N
 $EndSCHEMATC
