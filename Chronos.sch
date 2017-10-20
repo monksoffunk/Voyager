@@ -1129,4 +1129,6 @@ F 3 "" H 1175 1975 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1175 1975 1275 1975
+Text GLabel 4250 4000 2    60   Input ~ 0
+RGBLED
 $EndSCHEMATC

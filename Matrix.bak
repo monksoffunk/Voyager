@@ -3327,4 +3327,6 @@ F 3 "" H 2775 4400 60  0001 C CNN
 	1    2800 4425
 	1    0    0    -1  
 $EndComp
+Text GLabel 2625 2900 1    60   Input ~ 0
+LEDGND
 $EndSCHEMATC
