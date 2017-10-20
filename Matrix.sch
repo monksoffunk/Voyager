@@ -2580,7 +2580,7 @@ Wire Wire Line
 Wire Wire Line
 	8700 4600 8700 4800
 Wire Wire Line
-	9200 4550 9275 4550
+	9200 4550 9650 4550
 Wire Wire Line
 	9150 4600 9150 4800
 Wire Wire Line
@@ -2911,7 +2911,7 @@ Wire Wire Line
 Wire Wire Line
 	9325 5350 9300 5350
 Wire Wire Line
-	9325 4450 9300 4450
+	9300 4450 9750 4450
 Connection ~ 9325 5350
 Wire Wire Line
 	9325 3550 9300 3550
@@ -3374,4 +3374,9 @@ Wire Wire Line
 Connection ~ 9275 2750
 Wire Wire Line
 	9150 2800 9600 2800
+Wire Wire Line
+	9800 4400 9350 4400
+Connection ~ 9275 4550
+Wire Wire Line
+	9600 4600 9150 4600
 $EndSCHEMATC
