@@ -1171,4 +1171,6 @@ Text GLabel 4250 3100 2    60   Input ~ 0
 ROW6
 Text GLabel 4250 3000 2    60   Input ~ 0
 ROW7
+Text Notes 5575 2825 0    50   ~ 0
+This is supposed to be a NPN transistor\nFor some reason KiCad keeps flipping the arrow the other way
 $EndSCHEMATC
