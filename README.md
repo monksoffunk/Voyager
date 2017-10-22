@@ -1,15 +1,14 @@
-# Chronos
-Incomplete.
-Chronos 60% Keyboard PCB
+# Voyager
+Voyager 60% Keyboard PCB
 
 A simple MX/Alps 60% board that just works.
 
- * ANSI/ISO with arrow keys layout main
- * Regular ANSI/ISO layout secondary
- * AEK-II Alps layout tertiary
+Layouts:
+
+ * ANSI/ISO with arrow keys main
+ * AEK-II Alps secondary
  
-The main layout takes precedence over all other layouts. 
-Some keys for the other layouts may be flipped around.
+Features
  
  * ANSI/ISO enter/shift, split/unified backspace
  * Optional LED backlighting
@@ -17,25 +16,25 @@ Some keys for the other layouts may be flipped around.
  * Recommended layout firmware available for a quick "build and use" solution
  * Follows good practices for circuitry design for a stable, reliable result
 
-Keyboard Layout Editor layout: https://tinyurl.com/ai03-chronos-5
+Keyboard Layout Editor layout: http://tinyurl.com/ai03-voyager
 
 # Things required for building your own
 
 The bare minimum:
 
  * Around 65 switches or so
- * Case, keycaps, cable, stabilizer
+ * Case, keycaps, cable, stabilizer, etc
  * The PCB itself
  * All the parts in the parts list
  * Soldering iron and solder
  * Desoldering wick/solder sucker for mistakes
- * Soldering skill to solder the stuff on
+ * Soldering skill for surface-mount devices
  
 For the per-key LED lighting:
 
  * Around 65 LEDs
- * Around 65 1206 size 2.2-3.3k ohms resistors
- * The transistor (To be detailed)
+ * Around 65 0805 size 2.2-3.3k ohms resistors. 2.7k recommended.
+ * The SOT-23 NPN Transistor. NSS40301MZ4T1G recommended.
  
 For the RGB underglow:
 
