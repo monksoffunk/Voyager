@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 45.72 16.35 335.280001 147.0774)
     (thickness 1.6)
-    (drawings 17)
+    (drawings 18)
     (tracks 3246)
     (zones 0)
     (modules 256)
@@ -10642,6 +10642,9 @@
     (pad "" np_thru_hole circle (at 11.90625 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
+  (gr_text Chronos (at 212.852 145.796) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_text "Isolate the entire GND trace on top both sides\nOn bottom on right" (at 144.272 35.052) (layer Cmts.User)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
