@@ -33,7 +33,7 @@ LIBS:Molex-0548190589
 LIBS:ws2812b
 LIBS:keyboard_parts
 LIBS:mkl27z256vfm4
-LIBS:Chronos-cache
+LIBS:Voyager-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693

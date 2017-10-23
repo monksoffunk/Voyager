@@ -33,7 +33,7 @@ LIBS:Molex-0548190589
 LIBS:ws2812b
 LIBS:keyboard_parts
 LIBS:mkl27z256vfm4
-LIBS:Chronos-cache
+LIBS:Voyager-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -802,7 +802,7 @@ F0 "Matrix" 60
 F1 "Matrix.sch" 60
 $EndSheet
 Text Notes 7350 7500 0    60   ~ 0
-Chronos Keyboard\n
+Voyager Keyboard\n
 Text Notes 8125 7650 0    60   ~ 0
 2017-10-15\n
 $Comp
@@ -1171,4 +1171,8 @@ Text GLabel 4250 3100 2    60   Input ~ 0
 ROW6
 Text GLabel 4250 3000 2    60   Input ~ 0
 ROW7
+Text Notes 5575 2825 0    50   ~ 0
+This is supposed to be a NPN transistor\nFor some reason KiCad keeps flipping the arrow the other way
+Text Notes 10550 7650 0    60   ~ 0
+1.0
 $EndSCHEMATC

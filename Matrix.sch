@@ -33,7 +33,7 @@ LIBS:Molex-0548190589
 LIBS:ws2812b
 LIBS:keyboard_parts
 LIBS:mkl27z256vfm4
-LIBS:Chronos-cache
+LIBS:Voyager-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
@@ -49,7 +49,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text Notes 12175 10925 0    60   ~ 0
-Matrix
+Voyager Keyboard - Matrix
 Text Notes 12950 11075 0    60   ~ 0
 2017-10-16
 $Comp
@@ -3494,4 +3494,6 @@ Wire Wire Line
 	8925 5275 9600 5275
 Wire Wire Line
 	9600 5275 9600 5500
+Text Notes 15400 11075 0    60   ~ 0
+1.0
 $EndSCHEMATC
