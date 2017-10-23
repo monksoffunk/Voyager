@@ -21,22 +21,16 @@ Keyboard Layout Editor layout: http://tinyurl.com/ai03-voyager
  * Follows good practices for circuitry design for a stable, reliable result
  * Fuse prevents mistakes in assembly from blowing up a computer (hopefully)
 
-# Things required for building your own
+# Things required for assembly of a full keyboard
 
-The bare minimum:
-
- * Around 65 switches or so
- * Case, keycaps, cable, stabilizer, etc
+ * 66 switches, or less depending on layout
+ * Case, keycaps, cable, stabilizers, plate
  * The PCB itself
- * All the parts in the parts list
- * Soldering iron and solder
+ * Soldering iron, solder, flux
  * Desoldering wick/solder sucker for mistakes
  * Soldering skill for surface-mount devices
- 
-Optional:
+ * Parts in the parts list, and optional parts lists
 
- * The parts in the per-key LED and RGB underglow section
-   
 # The parts list
 
  * 2	22pf 0805 capacitors
@@ -53,13 +47,13 @@ Optional:
  * 1	Molex-0548190589 Mini-USB connector
  * 1	16MHz 3.2x2.5mm crystal
  
-# For the per-key LED lighting:
+# Optional per-key LED lighting:
 
  * 66	LEDs - 2x3x4mm or 1.8mm
  * 66	2.2-3.3k ohm 0805 resistors (2.7k recommended)
  * 1	SOT-223 NPN Transistor (NSS40301MZ4T1G recommended)
  
-# For the RGB underglow:
+# Optional RGB underglow:
 
  * 14	WS2812B RGB LEDs (4-pin) for direct install
  * 14	0.1uF 0805 capacitors 
