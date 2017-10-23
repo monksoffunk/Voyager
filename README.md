@@ -9,6 +9,8 @@ Layouts:
 
  * ANSI/ISO with arrow keys main
  * AEK-II Alps secondary
+
+Keyboard Layout Editor layout: http://tinyurl.com/ai03-voyager 
  
 Features
  
@@ -17,8 +19,7 @@ Features
  * Optional RGB underglow
  * Recommended layout firmware available for a quick "build and use" solution
  * Follows good practices for circuitry design for a stable, reliable result
-
-Keyboard Layout Editor layout: http://tinyurl.com/ai03-voyager
+ * Fuse prevents mistakes in assembly from blowing up a computer (hopefully)
 
 # Things required for building your own
 
