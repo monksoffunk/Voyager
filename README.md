@@ -12,7 +12,7 @@ Layouts:
 
 Keyboard Layout Editor layout: http://tinyurl.com/ai03-voyager 
  
-Features
+# Features
  
  * ANSI/ISO enter/shift, split/unified backspace
  * Optional LED backlighting
