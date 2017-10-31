@@ -1,10 +1,11 @@
 # Voyager
 Voyager 60% Keyboard PCB
 
-![Front render](https://raw.githubusercontent.com/ai03-2725/Voyager/master/Renders/Front.png?rev=1.0)
+![Front render](https://raw.githubusercontent.com/ai03-2725/Voyager/Rev1/Renders/Front.png?rev=1.0)
 
 A simple MX/Alps 60% board that just works.
 Revision 1.0 released 2017-10-23.
+**Revision 2.0 has been released. Revision 1.x is deprecated.**
 
 Layouts:
 
