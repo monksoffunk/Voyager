@@ -1155,9 +1155,9 @@ Text GLabel 4250 2400 2    60   Input ~ 0
 COL6
 Text GLabel 4250 2500 2    60   Input ~ 0
 COL7
-Text GLabel 4250 2100 2    60   Input ~ 0
+Text GLabel 4250 3100 2    60   Input ~ 0
 ROW0
-Text GLabel 4250 2000 2    60   Input ~ 0
+Text GLabel 4250 3200 2    60   Input ~ 0
 ROW1
 Text GLabel 4250 1900 2    60   Input ~ 0
 ROW2
@@ -1165,9 +1165,9 @@ Text GLabel 4250 3400 2    60   Input ~ 0
 ROW3
 Text GLabel 4250 3300 2    60   Input ~ 0
 ROW4
-Text GLabel 4250 3200 2    60   Input ~ 0
+Text GLabel 4250 2000 2    60   Input ~ 0
 ROW5
-Text GLabel 4250 3100 2    60   Input ~ 0
+Text GLabel 4250 2100 2    60   Input ~ 0
 ROW6
 Text GLabel 4250 2900 2    60   Input ~ 0
 ROW7
