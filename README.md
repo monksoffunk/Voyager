@@ -5,6 +5,7 @@ Voyager 60% Keyboard PCB
 
 A simple MX/Alps 60% board that just works.
 Revision 2.0 released 2017-10-30.
+Revision 2.x overrides the 1.x branch.
 
 Layouts:
 
