@@ -24,7 +24,7 @@ Keyboard Layout Editor layout: http://tinyurl.com/ai03-voyager
 
 # Things required for assembly of a full keyboard
 
- * 66 switches, or less depending on layout
+ * 65 switches, or less depending on layout
  * Case, keycaps, cable, stabilizers, plate
  * The PCB itself
  * Soldering iron, solder, flux
@@ -38,7 +38,7 @@ Keyboard Layout Editor layout: http://tinyurl.com/ai03-voyager
  * 1 	1uF 0805 capacitors
  * 2	0.1uF 0805 capacitors
  * 1	4.7uF 0805 capacitors
- * 66	SMA diodes (DO-214AC)
+ * 65	SOD-323 diodes
  * 1	PTC Fuse, 500mA hold current, 1206
  * 2	10k ohm 0805 resistors
  * 2	22 ohm 0805 resistors
@@ -50,14 +50,11 @@ Keyboard Layout Editor layout: http://tinyurl.com/ai03-voyager
  
 # Optional per-key LED lighting:
 
- * 66	LEDs - 2x3x4mm or 1.8mm
- * 66	2.2-3.3k ohm 0805 resistors (2.7k recommended)
+ * 65	LEDs - 2x3x4mm or 1.8mm
+ * 65	2.2-3.3k ohm 0805 resistors (2.7k recommended)
  * 1	SOT-223 NPN Transistor (NSS40301MZ4T1G recommended)
  
 # Optional RGB underglow:
 
- * 14	WS2812B RGB LEDs (4-pin) for direct install
+ * 14	WS2812B RGB LEDs (4-pin)
  * 14	0.1uF 0805 capacitors 
-   or
- * 2	WS2812B-based RGB strips for mounted install (Recommended 7 LEDs per row x2)
- * 3	Regular thin wire to connect the strips to PCB
