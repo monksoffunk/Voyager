@@ -1139,7 +1139,7 @@ Text GLabel 4250 3700 2    60   Input ~ 0
 COL1
 Text GLabel 4250 2800 2    60   Input ~ 0
 COL0
-Text GLabel 4250 2900 2    60   Input ~ 0
+Text GLabel 4250 3000 2    60   Input ~ 0
 COL2
 Text GLabel 4250 3800 2    60   Input ~ 0
 ROW9
@@ -1169,7 +1169,7 @@ Text GLabel 4250 3200 2    60   Input ~ 0
 ROW5
 Text GLabel 4250 3100 2    60   Input ~ 0
 ROW6
-Text GLabel 4250 3000 2    60   Input ~ 0
+Text GLabel 4250 2900 2    60   Input ~ 0
 ROW7
 Text Notes 5575 2825 0    50   ~ 0
 This is supposed to be a NPN transistor\nFor some reason KiCad keeps flipping the arrow the other way
