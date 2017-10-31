@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>C:/Users/Ryota/Documents/GitHub/Chronos/Voyager.sch</source>
-    <date>10/22/2017 7:39:39 PM</date>
+    <source>C:/Users/Ryota/Documents/GitHub/Voyager/Voyager.sch</source>
+    <date>10/30/2017 10:45:12 PM</date>
     <tool>Eeschema 4.0.6</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -357,7 +357,7 @@
     </comp>
     <comp ref="D_ESC1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E86545</tstamp>
@@ -378,7 +378,7 @@
     </comp>
     <comp ref="D_#1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8D17E</tstamp>
@@ -399,7 +399,7 @@
     </comp>
     <comp ref="D_#2">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8D908</tstamp>
@@ -420,7 +420,7 @@
     </comp>
     <comp ref="D_#3">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8D91C</tstamp>
@@ -441,7 +441,7 @@
     </comp>
     <comp ref="D_#4">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8E366</tstamp>
@@ -462,7 +462,7 @@
     </comp>
     <comp ref="D_#5">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8E37A</tstamp>
@@ -483,7 +483,7 @@
     </comp>
     <comp ref="D_#6">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8E38E</tstamp>
@@ -504,7 +504,7 @@
     </comp>
     <comp ref="D_#7">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8E3A2</tstamp>
@@ -525,7 +525,7 @@
     </comp>
     <comp ref="D_#8">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8EB36</tstamp>
@@ -546,7 +546,7 @@
     </comp>
     <comp ref="D_#9">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8EB4A</tstamp>
@@ -567,7 +567,7 @@
     </comp>
     <comp ref="D_#0_1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8EB5E</tstamp>
@@ -588,7 +588,7 @@
     </comp>
     <comp ref="D_-1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8EB72</tstamp>
@@ -609,7 +609,7 @@
     </comp>
     <comp ref="D_=1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8EB86</tstamp>
@@ -630,7 +630,7 @@
     </comp>
     <comp ref="D_DEL1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8EB9A</tstamp>
@@ -651,7 +651,7 @@
     </comp>
     <comp ref="D_BACK1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E8EBAE</tstamp>
@@ -672,7 +672,7 @@
     </comp>
     <comp ref="D_TAB1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E90F4B</tstamp>
@@ -693,7 +693,7 @@
     </comp>
     <comp ref="D_Q1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E90F5F</tstamp>
@@ -714,7 +714,7 @@
     </comp>
     <comp ref="D_W1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E90F73</tstamp>
@@ -735,7 +735,7 @@
     </comp>
     <comp ref="D_E1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E90F87</tstamp>
@@ -756,7 +756,7 @@
     </comp>
     <comp ref="D_R1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E90F9B</tstamp>
@@ -777,7 +777,7 @@
     </comp>
     <comp ref="D_T1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E90FAF</tstamp>
@@ -798,7 +798,7 @@
     </comp>
     <comp ref="D_Y1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E90FC3</tstamp>
@@ -819,7 +819,7 @@
     </comp>
     <comp ref="D_U1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E90FD7</tstamp>
@@ -840,7 +840,7 @@
     </comp>
     <comp ref="D_I1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E90FEB</tstamp>
@@ -861,7 +861,7 @@
     </comp>
     <comp ref="D_O1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E90FFF</tstamp>
@@ -882,7 +882,7 @@
     </comp>
     <comp ref="D_P1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E91013</tstamp>
@@ -903,7 +903,7 @@
     </comp>
     <comp ref="D_[1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E91027</tstamp>
@@ -924,7 +924,7 @@
     </comp>
     <comp ref="D_]1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9103B</tstamp>
@@ -945,7 +945,7 @@
     </comp>
     <comp ref="D_\1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9104F</tstamp>
@@ -966,7 +966,7 @@
     </comp>
     <comp ref="D_CAPS1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94533</tstamp>
@@ -987,7 +987,7 @@
     </comp>
     <comp ref="D_A1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94547</tstamp>
@@ -1008,7 +1008,7 @@
     </comp>
     <comp ref="D_S1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9455B</tstamp>
@@ -1029,7 +1029,7 @@
     </comp>
     <comp ref="D_D1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9456F</tstamp>
@@ -1050,7 +1050,7 @@
     </comp>
     <comp ref="D_F1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94583</tstamp>
@@ -1071,7 +1071,7 @@
     </comp>
     <comp ref="D_G1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94597</tstamp>
@@ -1092,7 +1092,7 @@
     </comp>
     <comp ref="D_H1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E945AB</tstamp>
@@ -1113,7 +1113,7 @@
     </comp>
     <comp ref="D_J1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E945BF</tstamp>
@@ -1134,7 +1134,7 @@
     </comp>
     <comp ref="D_K1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E945D3</tstamp>
@@ -1155,7 +1155,7 @@
     </comp>
     <comp ref="D_L1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E945E7</tstamp>
@@ -1176,7 +1176,7 @@
     </comp>
     <comp ref="D_;1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E945FB</tstamp>
@@ -1197,7 +1197,7 @@
     </comp>
     <comp ref="D_'1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9460F</tstamp>
@@ -1218,7 +1218,7 @@
     </comp>
     <comp ref="D_ISO`1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94623</tstamp>
@@ -1239,7 +1239,7 @@
     </comp>
     <comp ref="D_ENTER1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94637</tstamp>
@@ -1260,7 +1260,7 @@
     </comp>
     <comp ref="D_SHIFT1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9464B</tstamp>
@@ -1281,7 +1281,7 @@
     </comp>
     <comp ref="D_ISO\1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9465F</tstamp>
@@ -1302,7 +1302,7 @@
     </comp>
     <comp ref="D_Z1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94673</tstamp>
@@ -1323,7 +1323,7 @@
     </comp>
     <comp ref="D_X1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94687</tstamp>
@@ -1344,7 +1344,7 @@
     </comp>
     <comp ref="D_C1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9469B</tstamp>
@@ -1365,7 +1365,7 @@
     </comp>
     <comp ref="D_V1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E946AF</tstamp>
@@ -1386,7 +1386,7 @@
     </comp>
     <comp ref="D_B1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E946C3</tstamp>
@@ -1407,7 +1407,7 @@
     </comp>
     <comp ref="D_N1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E946D7</tstamp>
@@ -1428,7 +1428,7 @@
     </comp>
     <comp ref="D_M1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E946EB</tstamp>
@@ -1449,7 +1449,7 @@
     </comp>
     <comp ref="D_,1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E946FF</tstamp>
@@ -1470,7 +1470,7 @@
     </comp>
     <comp ref="D_.1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94713</tstamp>
@@ -1491,7 +1491,7 @@
     </comp>
     <comp ref="D_/1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94727</tstamp>
@@ -1512,7 +1512,7 @@
     </comp>
     <comp ref="D_UP1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9474F</tstamp>
@@ -1533,7 +1533,7 @@
     </comp>
     <comp ref="D_RSHIFT1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E94763</tstamp>
@@ -1554,7 +1554,7 @@
     </comp>
     <comp ref="D_CTRL1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9ABAA</tstamp>
@@ -1575,7 +1575,7 @@
     </comp>
     <comp ref="D_WIN1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9ABBE</tstamp>
@@ -1596,7 +1596,7 @@
     </comp>
     <comp ref="D_ALT1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9ABD2</tstamp>
@@ -1617,7 +1617,7 @@
     </comp>
     <comp ref="D_SPACE1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9AC22</tstamp>
@@ -1638,7 +1638,7 @@
     </comp>
     <comp ref="D_FN1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9AC72</tstamp>
@@ -1659,7 +1659,7 @@
     </comp>
     <comp ref="D_`1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9AC86</tstamp>
@@ -1680,7 +1680,7 @@
     </comp>
     <comp ref="D_LEFT1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9AC9A</tstamp>
@@ -1701,7 +1701,7 @@
     </comp>
     <comp ref="D_DOWN1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9ACAE</tstamp>
@@ -1722,7 +1722,7 @@
     </comp>
     <comp ref="D_RIGHT1">
       <value>SMA-GENERIC</value>
-      <footprint>Diodes_SMD:D_SMA</footprint>
+      <footprint>Diodes_SMD:D_SOD-323_HandSoldering</footprint>
       <libsource lib="device" part="D_Small"/>
       <sheetpath names="/Matrix/" tstamps="/59E84325/"/>
       <tstamp>59E9ACC2</tstamp>
@@ -2148,26 +2148,26 @@
     </libpart>
   </libparts>
   <libraries>
-    <library logical="transistors">
-      <uri>C:\Program Files\KiCad\share\kicad\library\transistors.lib</uri>
-    </library>
     <library logical="device">
       <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
     </library>
-    <library logical="atmel">
-      <uri>C:\Program Files\KiCad\share\kicad\library\atmel.lib</uri>
-    </library>
-    <library logical="Molex-0548190589">
-      <uri>C:\Users\Ryota\Documents\GitHub\Chronos\Molex-0548190589.pretty\Schematic Library\Molex-0548190589.lib</uri>
+    <library logical="transistors">
+      <uri>C:\Program Files\KiCad\share\kicad\library\transistors.lib</uri>
     </library>
     <library logical="keyboard_parts">
-      <uri>C:\Users\Ryota\Documents\GitHub\Chronos\kicad_lib_tmk\keyboard_parts.lib</uri>
+      <uri>C:\Users\Ryota\Documents\GitHub\Voyager\kicad_lib_tmk\keyboard_parts.lib</uri>
+    </library>
+    <library logical="Molex-0548190589">
+      <uri>C:\Users\Ryota\Documents\GitHub\Voyager\Molex-0548190589.pretty\Schematic Library\Molex-0548190589.lib</uri>
     </library>
     <library logical="ws2812b">
-      <uri>C:\Users\Ryota\Documents\GitHub\Chronos\WS2812B.pretty\Schematic-Symbol\ws2812b.lib</uri>
+      <uri>C:\Users\Ryota\Documents\GitHub\Voyager\WS2812B.pretty\Schematic-Symbol\ws2812b.lib</uri>
     </library>
     <library logical="MX_Alps_Hybrids">
-      <uri>C:\Users\Ryota\Documents\GitHub\Chronos\MX_Alps_Hybrid.pretty\Schematic Library\MX_Alps_Hybrids.lib</uri>
+      <uri>C:\Users\Ryota\Documents\GitHub\Voyager\MX_Alps_Hybrid.pretty\Schematic Library\MX_Alps_Hybrids.lib</uri>
+    </library>
+    <library logical="atmel">
+      <uri>C:\Program Files\KiCad\share\kicad\library\atmel.lib</uri>
     </library>
   </libraries>
   <nets>
@@ -2293,7 +2293,7 @@
     </net>
     <net code="3" name="RGBLED">
       <node ref="RGB1" pin="4"/>
-      <node ref="U1" pin="23"/>
+      <node ref="U1" pin="22"/>
     </net>
     <net code="4" name="Net-(RGB14-Pad2)">
       <node ref="RGB14" pin="2"/>
@@ -2319,8 +2319,8 @@
       <node ref="RGB9" pin="2"/>
     </net>
     <net code="10" name="Net-(RGB8-Pad2)">
-      <node ref="RGB9" pin="4"/>
       <node ref="RGB8" pin="2"/>
+      <node ref="RGB9" pin="4"/>
     </net>
     <net code="11" name="Net-(RGB6-Pad2)">
       <node ref="RGB6" pin="2"/>
@@ -2334,9 +2334,9 @@
       <node ref="CR8" pin="2"/>
       <node ref="CR3" pin="2"/>
       <node ref="CR7" pin="2"/>
-      <node ref="CR5" pin="2"/>
-      <node ref="CR4" pin="2"/>
       <node ref="U1" pin="3"/>
+      <node ref="CR4" pin="2"/>
+      <node ref="CR5" pin="2"/>
       <node ref="CR6" pin="2"/>
       <node ref="SW1" pin="1"/>
       <node ref="C5" pin="2"/>
@@ -2352,13 +2352,13 @@
       <node ref="Y1" pin="4"/>
       <node ref="C1" pin="2"/>
       <node ref="C2" pin="2"/>
-      <node ref="RGB4" pin="3"/>
-      <node ref="C3" pin="2"/>
-      <node ref="USB1" pin="1"/>
       <node ref="RGB8" pin="3"/>
+      <node ref="RGB4" pin="3"/>
+      <node ref="USB1" pin="1"/>
+      <node ref="C3" pin="2"/>
       <node ref="RGB5" pin="3"/>
-      <node ref="RGB6" pin="3"/>
       <node ref="RGB7" pin="3"/>
+      <node ref="RGB6" pin="3"/>
       <node ref="RGB11" pin="3"/>
       <node ref="U1" pin="28"/>
       <node ref="Q1" pin="3"/>
@@ -2441,8 +2441,9 @@
       <node ref="R_#0_1" pin="1"/>
       <node ref="R_]1" pin="1"/>
       <node ref="R_[1" pin="1"/>
-      <node ref="R_M1" pin="1"/>
+      <node ref="R_WIN1" pin="1"/>
       <node ref="R_X1" pin="1"/>
+      <node ref="R_Z1" pin="1"/>
       <node ref="R_ISO\1" pin="1"/>
       <node ref="R_V1" pin="1"/>
       <node ref="R_C1" pin="1"/>
@@ -2450,253 +2451,252 @@
       <node ref="R_'1" pin="1"/>
       <node ref="R_;1" pin="1"/>
       <node ref="R_SHIFT1" pin="1"/>
-      <node ref="R_ENTER1" pin="1"/>
       <node ref="R_UP1" pin="1"/>
       <node ref="R_RSHIFT1" pin="1"/>
-      <node ref="R_Z1" pin="1"/>
-      <node ref="R_/1" pin="1"/>
+      <node ref="R_CTRL1" pin="1"/>
       <node ref="R_,1" pin="1"/>
+      <node ref="R_/1" pin="1"/>
+      <node ref="R_M1" pin="1"/>
       <node ref="R_.1" pin="1"/>
       <node ref="R_B1" pin="1"/>
-      <node ref="R_WIN1" pin="1"/>
       <node ref="R_N1" pin="1"/>
-      <node ref="R_CTRL1" pin="1"/>
+      <node ref="R_ENTER1" pin="1"/>
     </net>
     <net code="20" name="Net-(Q1-Pad1)">
       <node ref="R4" pin="1"/>
       <node ref="Q1" pin="1"/>
     </net>
     <net code="21" name="Net-(R4-Pad2)">
-      <node ref="R4" pin="2"/>
       <node ref="U1" pin="21"/>
+      <node ref="R4" pin="2"/>
     </net>
     <net code="22" name="ROW9">
-      <node ref="D_WIN1" pin="1"/>
-      <node ref="U1" pin="26"/>
-      <node ref="D_DOWN1" pin="1"/>
       <node ref="D_`1" pin="1"/>
+      <node ref="U1" pin="26"/>
+      <node ref="D_WIN1" pin="1"/>
+      <node ref="D_DOWN1" pin="1"/>
     </net>
-    <net code="23" name="ROW0">
-      <node ref="D_=1" pin="1"/>
-      <node ref="D_BACK1" pin="1"/>
-      <node ref="D_#0_1" pin="1"/>
-      <node ref="D_#8" pin="1"/>
-      <node ref="D_#6" pin="1"/>
+    <net code="23" name="ROW6">
+      <node ref="D_M1" pin="1"/>
+      <node ref="D_.1" pin="1"/>
+      <node ref="D_RSHIFT1" pin="1"/>
+      <node ref="D_SHIFT1" pin="1"/>
+      <node ref="D_C1" pin="1"/>
+      <node ref="D_B1" pin="1"/>
+      <node ref="D_Z1" pin="1"/>
       <node ref="U1" pin="16"/>
-      <node ref="D_ESC1" pin="1"/>
-      <node ref="D_#2" pin="1"/>
-      <node ref="D_#4" pin="1"/>
     </net>
     <net code="24" name="ROW8">
-      <node ref="D_LEFT1" pin="1"/>
-      <node ref="U1" pin="25"/>
-      <node ref="D_CTRL1" pin="1"/>
-      <node ref="D_RIGHT1" pin="1"/>
-      <node ref="D_SPACE1" pin="1"/>
       <node ref="D_ALT1" pin="1"/>
+      <node ref="D_SPACE1" pin="1"/>
+      <node ref="D_CTRL1" pin="1"/>
       <node ref="D_FN1" pin="1"/>
+      <node ref="U1" pin="25"/>
+      <node ref="D_LEFT1" pin="1"/>
+      <node ref="D_RIGHT1" pin="1"/>
     </net>
-    <net code="25" name="ROW1">
+    <net code="25" name="ROW5">
+      <node ref="D_ISO`1" pin="1"/>
+      <node ref="D_K1" pin="1"/>
+      <node ref="D_S1" pin="1"/>
+      <node ref="D_CAPS1" pin="1"/>
+      <node ref="D_F1" pin="1"/>
+      <node ref="D_;1" pin="1"/>
       <node ref="U1" pin="15"/>
-      <node ref="D_#7" pin="1"/>
-      <node ref="D_#1" pin="1"/>
-      <node ref="D_#3" pin="1"/>
-      <node ref="D_#9" pin="1"/>
-      <node ref="D_-1" pin="1"/>
-      <node ref="D_DEL1" pin="1"/>
-      <node ref="D_#5" pin="1"/>
+      <node ref="D_H1" pin="1"/>
     </net>
     <net code="26" name="ROW2">
-      <node ref="D_\1" pin="1"/>
-      <node ref="D_T1" pin="1"/>
-      <node ref="D_O1" pin="1"/>
-      <node ref="D_E1" pin="1"/>
-      <node ref="D_U1" pin="1"/>
-      <node ref="D_Q1" pin="1"/>
       <node ref="D_[1" pin="1"/>
+      <node ref="D_Q1" pin="1"/>
+      <node ref="D_\1" pin="1"/>
       <node ref="U1" pin="14"/>
+      <node ref="D_E1" pin="1"/>
+      <node ref="D_O1" pin="1"/>
+      <node ref="D_T1" pin="1"/>
+      <node ref="D_U1" pin="1"/>
     </net>
-    <net code="27" name="Net-(R5-Pad2)">
+    <net code="27" name="COL3">
+      <node ref="K_SPACE1" pin="2"/>
+      <node ref="K_SPACE2" pin="1"/>
+      <node ref="K_B1" pin="1"/>
+      <node ref="K_G1" pin="1"/>
+      <node ref="K_#7" pin="1"/>
+      <node ref="K_#6" pin="1"/>
+      <node ref="K_T1" pin="1"/>
+      <node ref="K_Y1" pin="1"/>
+      <node ref="K_N1" pin="1"/>
+      <node ref="K_H1" pin="1"/>
+      <node ref="U1" pin="23"/>
+    </net>
+    <net code="28" name="Net-(R5-Pad2)">
       <node ref="U1" pin="13"/>
       <node ref="R5" pin="2"/>
     </net>
-    <net code="28" name="COL3">
-      <node ref="K_G1" pin="1"/>
-      <node ref="K_SPACE2" pin="1"/>
-      <node ref="K_SPACE1" pin="2"/>
-      <node ref="K_H1" pin="1"/>
-      <node ref="K_N1" pin="1"/>
-      <node ref="K_B1" pin="1"/>
-      <node ref="K_T1" pin="1"/>
-      <node ref="K_#7" pin="1"/>
-      <node ref="U1" pin="22"/>
-      <node ref="K_Y1" pin="1"/>
-      <node ref="K_#6" pin="1"/>
-    </net>
     <net code="29" name="ROW3">
-      <node ref="D_P1" pin="1"/>
-      <node ref="D_I1" pin="1"/>
       <node ref="D_]1" pin="1"/>
-      <node ref="D_W1" pin="1"/>
       <node ref="D_Y1" pin="1"/>
+      <node ref="D_W1" pin="1"/>
+      <node ref="D_I1" pin="1"/>
       <node ref="D_R1" pin="1"/>
-      <node ref="U1" pin="12"/>
       <node ref="D_TAB1" pin="1"/>
+      <node ref="D_P1" pin="1"/>
+      <node ref="U1" pin="12"/>
     </net>
-    <net code="30" name="COL7">
-      <node ref="K_RSHIFT1" pin="1"/>
-      <node ref="K_RIGHT1" pin="1"/>
-      <node ref="K_ENTER1" pin="1"/>
-      <node ref="K_\1" pin="1"/>
-      <node ref="K_RCTRL2" pin="2"/>
-      <node ref="K_BACK1" pin="1"/>
-      <node ref="K_ISOENTER1" pin="1"/>
+    <net code="30" name="COL4">
+      <node ref="K_I1" pin="1"/>
+      <node ref="K_U1" pin="1"/>
+      <node ref="K_#9" pin="1"/>
       <node ref="U1" pin="17"/>
-      <node ref="K_BACK2" pin="1"/>
+      <node ref="K_K1" pin="1"/>
+      <node ref="K_J1" pin="1"/>
+      <node ref="K_,1" pin="1"/>
+      <node ref="K_#8" pin="1"/>
+      <node ref="K_M1" pin="1"/>
     </net>
     <net code="31" name="ROW4">
-      <node ref="D_ENTER1" pin="1"/>
       <node ref="D_G1" pin="1"/>
+      <node ref="D_ENTER1" pin="1"/>
       <node ref="U1" pin="11"/>
-      <node ref="D_D1" pin="1"/>
       <node ref="D_A1" pin="1"/>
+      <node ref="D_D1" pin="1"/>
       <node ref="D_'1" pin="1"/>
-      <node ref="D_L1" pin="1"/>
       <node ref="D_J1" pin="1"/>
+      <node ref="D_L1" pin="1"/>
     </net>
     <net code="32" name="/D_N">
       <node ref="R3" pin="1"/>
       <node ref="U1" pin="30"/>
     </net>
-    <net code="33" name="COL4">
-      <node ref="K_J1" pin="1"/>
-      <node ref="K_K1" pin="1"/>
-      <node ref="K_M1" pin="1"/>
-      <node ref="K_I1" pin="1"/>
-      <node ref="K_#9" pin="1"/>
-      <node ref="K_#8" pin="1"/>
-      <node ref="K_,1" pin="1"/>
-      <node ref="K_U1" pin="1"/>
+    <net code="33" name="COL7">
+      <node ref="K_BACK2" pin="1"/>
+      <node ref="K_ISOENTER1" pin="1"/>
+      <node ref="K_BACK1" pin="1"/>
+      <node ref="K_\1" pin="1"/>
+      <node ref="K_RIGHT1" pin="1"/>
       <node ref="U1" pin="20"/>
+      <node ref="K_RSHIFT1" pin="1"/>
+      <node ref="K_RCTRL2" pin="2"/>
+      <node ref="K_ENTER1" pin="1"/>
     </net>
-    <net code="34" name="ROW5">
+    <net code="34" name="ROW1">
+      <node ref="D_-1" pin="1"/>
       <node ref="U1" pin="10"/>
-      <node ref="D_CAPS1" pin="1"/>
-      <node ref="D_ISO`1" pin="1"/>
-      <node ref="D_F1" pin="1"/>
-      <node ref="D_H1" pin="1"/>
-      <node ref="D_K1" pin="1"/>
-      <node ref="D_;1" pin="1"/>
-      <node ref="D_S1" pin="1"/>
+      <node ref="D_DEL1" pin="1"/>
+      <node ref="D_#3" pin="1"/>
+      <node ref="D_#7" pin="1"/>
+      <node ref="D_#1" pin="1"/>
+      <node ref="D_#9" pin="1"/>
+      <node ref="D_#5" pin="1"/>
     </net>
-    <net code="35" name="ROW6">
-      <node ref="D_B1" pin="1"/>
-      <node ref="D_Z1" pin="1"/>
-      <node ref="D_M1" pin="1"/>
-      <node ref="D_SHIFT1" pin="1"/>
-      <node ref="D_C1" pin="1"/>
-      <node ref="D_.1" pin="1"/>
-      <node ref="D_RSHIFT1" pin="1"/>
+    <net code="35" name="ROW0">
+      <node ref="D_BACK1" pin="1"/>
+      <node ref="D_#6" pin="1"/>
+      <node ref="D_=1" pin="1"/>
+      <node ref="D_#8" pin="1"/>
+      <node ref="D_#0_1" pin="1"/>
+      <node ref="D_#2" pin="1"/>
       <node ref="U1" pin="9"/>
+      <node ref="D_#4" pin="1"/>
+      <node ref="D_ESC1" pin="1"/>
     </net>
-    <net code="36" name="ROW7">
-      <node ref="D_ISO\1" pin="1"/>
-      <node ref="D_X1" pin="1"/>
-      <node ref="D_UP1" pin="1"/>
+    <net code="36" name="COL2">
+      <node ref="K_C1" pin="1"/>
+      <node ref="K_F1" pin="1"/>
+      <node ref="K_E1" pin="1"/>
+      <node ref="K_V1" pin="1"/>
+      <node ref="K_R1" pin="1"/>
+      <node ref="K_#4" pin="1"/>
+      <node ref="K_D1" pin="1"/>
+      <node ref="K_#5" pin="1"/>
       <node ref="U1" pin="8"/>
+    </net>
+    <net code="37" name="ROW7">
+      <node ref="U1" pin="7"/>
       <node ref="D_,1" pin="1"/>
+      <node ref="D_UP1" pin="1"/>
+      <node ref="D_X1" pin="1"/>
       <node ref="D_N1" pin="1"/>
       <node ref="D_/1" pin="1"/>
       <node ref="D_V1" pin="1"/>
-    </net>
-    <net code="37" name="COL2">
-      <node ref="K_#4" pin="1"/>
-      <node ref="K_#5" pin="1"/>
-      <node ref="K_E1" pin="1"/>
-      <node ref="U1" pin="7"/>
-      <node ref="K_F1" pin="1"/>
-      <node ref="K_C1" pin="1"/>
-      <node ref="K_V1" pin="1"/>
-      <node ref="K_R1" pin="1"/>
-      <node ref="K_D1" pin="1"/>
+      <node ref="D_ISO\1" pin="1"/>
     </net>
     <net code="38" name="COL0">
+      <node ref="K_CTRL1" pin="1"/>
       <node ref="K_CAPS2" pin="2"/>
       <node ref="K_ESC1" pin="1"/>
-      <node ref="K_TAB1" pin="1"/>
+      <node ref="K_ALT2" pin="2"/>
       <node ref="K_#1" pin="1"/>
-      <node ref="K_CAPS1" pin="1"/>
-      <node ref="K_WIN1" pin="1"/>
       <node ref="K_SHIFT2" pin="1"/>
+      <node ref="K_CAPS1" pin="1"/>
       <node ref="K_CTRL2" pin="1"/>
       <node ref="K_ISO\1" pin="1"/>
-      <node ref="K_ALT2" pin="2"/>
-      <node ref="U1" pin="6"/>
+      <node ref="K_TAB1" pin="1"/>
       <node ref="K_SHIFT1" pin="1"/>
-      <node ref="K_CTRL1" pin="1"/>
+      <node ref="K_WIN1" pin="1"/>
+      <node ref="U1" pin="6"/>
     </net>
     <net code="39" name="COL1">
-      <node ref="K_X1" pin="1"/>
-      <node ref="K_S1" pin="1"/>
-      <node ref="K_Q1" pin="1"/>
-      <node ref="K_Z1" pin="1"/>
-      <node ref="K_W1" pin="1"/>
-      <node ref="K_#3" pin="1"/>
-      <node ref="K_#2" pin="1"/>
       <node ref="K_A1" pin="1"/>
+      <node ref="K_#3" pin="1"/>
+      <node ref="K_X1" pin="1"/>
+      <node ref="K_Q1" pin="1"/>
       <node ref="K_CMD1" pin="2"/>
       <node ref="U1" pin="5"/>
+      <node ref="K_W1" pin="1"/>
       <node ref="K_ALT1" pin="1"/>
+      <node ref="K_S1" pin="1"/>
+      <node ref="K_#2" pin="1"/>
+      <node ref="K_Z1" pin="1"/>
     </net>
     <net code="40" name="Net-(R1-Pad2)">
-      <node ref="U1" pin="24"/>
       <node ref="SW1" pin="2"/>
       <node ref="R1" pin="2"/>
+      <node ref="U1" pin="24"/>
     </net>
     <net code="41" name="/D_P">
       <node ref="U1" pin="29"/>
       <node ref="R2" pin="1"/>
     </net>
-    <net code="42" name="COL5">
-      <node ref="K_/2" pin="2"/>
-      <node ref="K_#0_1" pin="1"/>
-      <node ref="K_/1" pin="1"/>
-      <node ref="K_;1" pin="1"/>
-      <node ref="K_P1" pin="1"/>
+    <net code="42" name="COL6">
+      <node ref="K_UP1" pin="1"/>
       <node ref="U1" pin="19"/>
-      <node ref="K_O1" pin="1"/>
-      <node ref="K_.1" pin="1"/>
-      <node ref="K_L1" pin="1"/>
-      <node ref="K_-1" pin="1"/>
-      <node ref="K_`1" pin="1"/>
-      <node ref="K_FN1" pin="1"/>
-    </net>
-    <net code="43" name="COL6">
+      <node ref="K_RSHIFT2" pin="1"/>
+      <node ref="K_LEFT1" pin="1"/>
+      <node ref="K_DEL1" pin="1"/>
       <node ref="K_=1" pin="1"/>
+      <node ref="K_DOWN1" pin="1"/>
+      <node ref="K_RALT1" pin="2"/>
+      <node ref="K_[1" pin="1"/>
       <node ref="K_'1" pin="1"/>
       <node ref="K_ISO`1" pin="1"/>
-      <node ref="K_[1" pin="1"/>
       <node ref="K_]1" pin="1"/>
-      <node ref="K_LEFT1" pin="1"/>
-      <node ref="K_DOWN1" pin="1"/>
-      <node ref="K_RSHIFT2" pin="1"/>
+    </net>
+    <net code="43" name="COL5">
+      <node ref="K_FN1" pin="1"/>
+      <node ref="K_`1" pin="1"/>
+      <node ref="K_P1" pin="1"/>
+      <node ref="K_#0_1" pin="1"/>
+      <node ref="K_O1" pin="1"/>
+      <node ref="K_.1" pin="1"/>
       <node ref="U1" pin="18"/>
-      <node ref="K_RALT1" pin="2"/>
-      <node ref="K_UP1" pin="1"/>
-      <node ref="K_DEL1" pin="1"/>
+      <node ref="K_;1" pin="1"/>
+      <node ref="K_/1" pin="1"/>
+      <node ref="K_/2" pin="2"/>
+      <node ref="K_L1" pin="1"/>
+      <node ref="K_-1" pin="1"/>
     </net>
     <net code="44" name="Net-(C3-Pad1)">
       <node ref="U1" pin="27"/>
       <node ref="C3" pin="1"/>
     </net>
     <net code="45" name="Net-(C1-Pad1)">
-      <node ref="Y1" pin="1"/>
-      <node ref="U1" pin="1"/>
       <node ref="C1" pin="1"/>
+      <node ref="U1" pin="1"/>
+      <node ref="Y1" pin="1"/>
     </net>
     <net code="46" name="Net-(C2-Pad1)">
-      <node ref="Y1" pin="3"/>
       <node ref="U1" pin="2"/>
+      <node ref="Y1" pin="3"/>
       <node ref="C2" pin="1"/>
     </net>
     <net code="47" name="Net-(RGB4-Pad2)">
