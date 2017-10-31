@@ -1129,7 +1129,7 @@ F 3 "" H 1175 1975 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1175 1975 1275 1975
-Text GLabel 4250 4000 2    60   Input ~ 0
+Text GLabel 4250 4100 2    60   Input ~ 0
 RGBLED
 Text Label 1825 3400 0    60   ~ 0
 D_P
@@ -1145,15 +1145,15 @@ Text GLabel 4250 3800 2    60   Input ~ 0
 ROW9
 Text GLabel 4250 3900 2    60   Input ~ 0
 ROW8
-Text GLabel 4250 4100 2    60   Input ~ 0
+Text GLabel 4250 4000 2    60   Input ~ 0
 COL3
-Text GLabel 4250 2500 2    60   Input ~ 0
-COL4
-Text GLabel 4250 2400 2    60   Input ~ 0
-COL5
-Text GLabel 4250 2300 2    60   Input ~ 0
-COL6
 Text GLabel 4250 2200 2    60   Input ~ 0
+COL4
+Text GLabel 4250 2300 2    60   Input ~ 0
+COL5
+Text GLabel 4250 2400 2    60   Input ~ 0
+COL6
+Text GLabel 4250 2500 2    60   Input ~ 0
 COL7
 Text GLabel 4250 2100 2    60   Input ~ 0
 ROW0
