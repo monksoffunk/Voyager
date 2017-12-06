@@ -1135,42 +1135,6 @@ Text Label 1825 3400 0    60   ~ 0
 D_P
 Text Label 1825 3500 0    60   ~ 0
 D_N
-Text GLabel 4250 3700 2    60   Input ~ 0
-COL1
-Text GLabel 4250 2800 2    60   Input ~ 0
-COL0
-Text GLabel 4250 3000 2    60   Input ~ 0
-COL2
-Text GLabel 4250 3800 2    60   Input ~ 0
-ROW9
-Text GLabel 4250 3900 2    60   Input ~ 0
-ROW8
-Text GLabel 4250 4000 2    60   Input ~ 0
-COL3
-Text GLabel 4250 2200 2    60   Input ~ 0
-COL4
-Text GLabel 4250 2300 2    60   Input ~ 0
-COL5
-Text GLabel 4250 2400 2    60   Input ~ 0
-COL6
-Text GLabel 4250 2500 2    60   Input ~ 0
-COL7
-Text GLabel 4250 3100 2    60   Input ~ 0
-ROW0
-Text GLabel 4250 3200 2    60   Input ~ 0
-ROW1
-Text GLabel 4250 1900 2    60   Input ~ 0
-ROW2
-Text GLabel 4250 3400 2    60   Input ~ 0
-ROW3
-Text GLabel 4250 3300 2    60   Input ~ 0
-ROW4
-Text GLabel 4250 2000 2    60   Input ~ 0
-ROW5
-Text GLabel 4250 2100 2    60   Input ~ 0
-ROW6
-Text GLabel 4250 2900 2    60   Input ~ 0
-ROW7
 Text Notes 5575 2825 0    50   ~ 0
 This is supposed to be a NPN transistor\nFor some reason KiCad keeps flipping the arrow the other way
 Text Notes 10550 7650 0    60   ~ 0
